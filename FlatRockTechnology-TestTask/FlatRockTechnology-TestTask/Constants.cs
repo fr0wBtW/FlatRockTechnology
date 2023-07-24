@@ -2,7 +2,7 @@
 {
     public static class Constants
     {
-        public const string FilePath = "C:\\Users\\Georgi\\Desktop\\FlatRockTechnology\\FlatRockTechnology.html";
+        public const string FilePath = "C:\\Users\\Georgi\\Desktop\\FlatRockTechnology\\FlatRockTechnology\\FlatRockTechnology.html";
 
         public const string MainItemTag = "//div[@class='item']";
 
